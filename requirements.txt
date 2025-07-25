@@ -2,3 +2,4 @@ fastapi
 uvicorn
 torch
 transformers
+protobuf>=3.20.0
